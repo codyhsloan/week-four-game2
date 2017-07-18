@@ -1,4 +1,7 @@
 /* Whole Webpage*/
+background-image { url("assets/images/crystalCave.jpg");
+}
+
 div{
 	background-color: white;
 	margin: 10px;
